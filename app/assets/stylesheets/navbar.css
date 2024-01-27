@@ -1,0 +1,19 @@
+.navbar-links {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.navbar-links a {
+    margin-right: 10px;
+    text-decoration: none;
+    color: #000;
+}
+
+.navbar-links a:hover {
+    text-decoration: underline;
+}
+
+.signed-in-message {
+    margin-top: 10px;
+}
